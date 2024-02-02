@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'corbert'; /* Choose a name for your font */
+    src: url('src/font/Corbert-Regular.ttf') format('woff');
+    /* You may also include additional font formats for cross-browser compatibility */
+  }
+  
+
+.corbert {
+    font-family: 'corbert', sans-serif;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.text-decoration {
+    text-decoration: none;
+}
+
+.img-logo {
+    max-width: 100%;
+    width:250px;
+}
+
+.div-bg {
+    background-color: #1388e2;
+}
+
+.ppc-icon{
+    max-width: 100%;
+    width: 30px;
+}
